@@ -1,4 +1,5 @@
-# SimpleWebRTC Audio Chat App using
+# SimpleWebRTC Audio Chat App
+##### This app is a peer-to-peer audio only chat app.
 ### Setup and run the project
 1. run `npm install` command in terminal within the project directory to install the dependencies
 2. run `npm start` command to run the project
